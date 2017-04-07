@@ -1,3 +1,4 @@
+
 罗刚的个人站点
-    技术博客地址:[go](http://www.kobeluo.com/TECH/)
-    生活博客地址:[go](https://www.kobeluo.com/LIFESTYLE/)
+    技术博客地址:[TECH](http://KobeLuo.github.io/TECH/)
+    生活博客地址:[LIFE](https://KobeLuo.github.io/LIFESTYLE/)
